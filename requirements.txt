@@ -1,0 +1,7 @@
+Flask==2.3.2
+Flask-Cors==3.0.10
+langchain-google-genai
+langchain-community
+langchain-core
+pandas==2.0.3
+faiss-cpu==1.7.4
